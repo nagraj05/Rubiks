@@ -1,0 +1,10 @@
+for white:
+R U R' U'
+
+for yellow:
+
+U L D L U L2 D
+R U R' U R U2 R'
+
+for last phase
+R U R' U' R' F R2 U' R' U' R U R' F'
